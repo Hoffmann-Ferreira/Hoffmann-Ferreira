@@ -38,7 +38,7 @@
   
   <h2 align="center"> Stats 📊 </h2>
   
-   ![Snake animation](https://github.com/Hoffmann-Ferreira/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Hoffmann-Ferreira/Hoffmann-Ferreira/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Hoffmann-Ferreira/Hoffmann-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
