@@ -35,10 +35,7 @@
 <a href="https://www.linkedin.com/in/devhoffmannferreira/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://wa.me/5532984179500" title="Email"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> <a href="mailto:andreihf@outlook.com" title="whatsapp"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </div>
 
-  
-  <h2 align="center"> Stats 📊 </h2>
-  
-   ![Snake animation](https://github.com/Hoffmann-Ferreira/Hoffmann-Ferreira/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **Hoffmann-Ferreira/Hoffmann-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
