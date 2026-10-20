@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Andrei Hoffmann</h1>
+<h1 align="center">👋 Olá, eu sou Andrei Hoffmann Ferreira </h1>
 
 <p align="center">
   💻 Desenvolvedor Full-Stack | Node.js · React · React Native
@@ -9,14 +9,17 @@
 </p><br>
 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## 👨‍💻 Sobre
 
-Desenvolvedor full-stack com mais de 4 anos de experiência. Hoje estou na Acuttis, empresa de sistemas de gestão de jornada de trabalho, onde evoluí de Trainee a Desenvolvedor Full-Stack III.
+Sou desenvolvedor full-stack e construo aplicações web e mobile de ponta a ponta, com Node.js, React e React Native.
 
-- 🔌 Integrei o produto a 14 sistemas de folha de pagamento, automatizando a exportação de dados.
-- 🤖 Integrei o produto ao sistema de IA do HubSpot, reduzindo em 60% os atendimentos diretos.
-- ⚡ Reduzi em mais de 50% o tempo de resposta de consultas ao otimizar o PostgreSQL.
-- 📚 Estudando agora: system design, mensageria e MCP.<br><br>
+Atuo na área desde 2022 trabalhando com APIs REST, integrações com sistemas de terceiros e de IA e otimização de PostgreSQL.
+
+Cheguei à tecnologia pelo bootcamp Full Stack da Blue EdTech, onde fui campeão com a minha equipe, depois de mais de quatro anos como assessor jurídico.
+
+- 📚 Estudando agora: system design, mensageria e MCP<br><br>
 
 
 ## 🚀 Linguagens
@@ -55,7 +58,7 @@ NestJS · TypeScript · PostgreSQL · SQS · React · Docker · GitHub Actions �
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devhoffmannferreira/)](https://www.linkedin.com/in/devhoffmannferreira/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-andrei-ferreira/)](https://www.linkedin.com/in/dev-andrei-ferreira/)
 [![Outlook](https://img.shields.io/badge/-andreihf@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:andreihf@outlook.com)](mailto:andreihf@outlook.com)<br><br>
 
 Fique à vontade para entrar em contato para conversar sobre projetos, colaborações ou oportunidades. Estou ansioso para ouvir de você! 😊
