@@ -1,42 +1,61 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hoffmann-Ferreira.Hoffmann-Ferreira">
+<h1 align="center">👋 Olá, eu sou Andrei Hoffmann</h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I'm+Andrei+Hoffmann....;Nice+to+meet+you!+👋🧑&center=true&size=30">
-  </a>
-</h1>
-<br>
+<p align="center">
+  💻 Desenvolvedor Full-Stack | Node.js · React · React Native
+</p>
 
-<!-- <div align="center">
-  <a href="https://github.com/Hoffmann-Ferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hoffmann-Ferreira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffmann-Ferreira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div> -->
-<br>
-
-<h2 align="center"> Hard Skills 💻 </h2>
-<br>
-
-* 🎨 Front-end - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="23px"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="23px">
-
-* 🧰 Back-end - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="23px"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="23px"> 
-
-* 🛢 Database -  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px"> 
+<p align="center">
+  🌍 APIs, integração de sistemas e IA aplicada a produtos
+</p><br>
 
 
-* 🔧 Tools - <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="23px"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="23px"> 
-<br>
+## 👨‍💻 Sobre
+
+Desenvolvedor full-stack com mais de 4 anos de experiência. Hoje estou na Acuttis, empresa de sistemas de gestão de jornada de trabalho, onde evoluí de Trainee a Desenvolvedor Full-Stack III.
+
+- 🔌 Integrei o produto a 14 sistemas de folha de pagamento, automatizando a exportação de dados.
+- 🤖 Integrei o produto ao sistema de IA do HubSpot, reduzindo em 60% os atendimentos diretos.
+- ⚡ Reduzi em mais de 50% o tempo de resposta de consultas ao otimizar o PostgreSQL.
+- 📚 Estudando agora: system design, mensageria e MCP.<br><br>
 
 
-<h2 align="center"> Contact 🤝🏼 </h2>
+## 🚀 Linguagens
+[![Linguagens](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)<br><br>
 
-<div align="center"> <br>
+## 🎨 Front-end
+[![Front-end](https://skillicons.dev/icons?i=react,nextjs,html,css)](https://skillicons.dev)<br><br>
 
-<a href="https://www.linkedin.com/in/devhoffmannferreira/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://wa.me/5532984179500" title="Email"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> <a href="mailto:andreihf@outlook.com" title="whatsapp"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-</div>
+## 🧰 Back-end
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)<br><br>
 
+## 🛢️ Bancos de dados e ORMs
+[![Bancos de dados](https://skillicons.dev/icons?i=postgres,mongodb,prisma)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas
+[![Ferramentas](https://skillicons.dev/icons?i=docker,git,github,vscode)](https://skillicons.dev)<br><br>
+
+<!--
+Adicione quando for verdade no seu dia a dia ou depois da PoC:
+jest, githubactions, aws
+
+Exemplo: https://skillicons.dev/icons?i=docker,githubactions,jest,aws
+-->
 
 
 <!--
-**Hoffmann-Ferreira/Hoffmann-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ Projeto em destaque
+
+Descomente quando a PoC estiver no ar.
+
+**[Onboarding Hub](https://github.com/Hoffmann-Ferreira/onboarding-hub)**: API que gera o checklist de integração de um colaborador e aciona sistemas satélites por fila, com painel web e servidor MCP.
+
+NestJS · TypeScript · PostgreSQL · SQS · React · Docker · GitHub Actions · MCP
 -->
+
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devhoffmannferreira/)](https://www.linkedin.com/in/devhoffmannferreira/)
+[![Outlook](https://img.shields.io/badge/-andreihf@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:andreihf@outlook.com)](mailto:andreihf@outlook.com)<br><br>
+
+Fique à vontade para entrar em contato para conversar sobre projetos, colaborações ou oportunidades. Estou ansioso para ouvir de você! 😊
