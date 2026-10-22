@@ -8,10 +8,9 @@
   🌍 APIs, integração de sistemas e IA aplicada a produtos
 </p><br>
 
+## 👨‍💻 Sobre
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-## 👨‍💻 Sobre
 
 Sou desenvolvedor full-stack e construo aplicações web e mobile de ponta a ponta, com Node.js, React e React Native.
 
