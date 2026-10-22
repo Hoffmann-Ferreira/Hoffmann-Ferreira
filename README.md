@@ -14,12 +14,11 @@
 
 Sou desenvolvedor full-stack e construo aplicações web e mobile de ponta a ponta, com Node.js, React e React Native.
 
-Atuo na área desde 2022 trabalhando com APIs REST, integrações com sistemas de terceiros e de IA e otimização de PostgreSQL.
+Estou na área desde 2022 trabalhando com APIs REST, integrações com sistemas de terceiros e de IA e otimização de PostgreSQL.
 
-Cheguei à tecnologia pelo bootcamp Full Stack da Blue EdTech, onde fui campeão com a minha equipe, depois de mais de quatro anos como assessor jurídico.
+No momento, trabalho na evolução da plataforma de gestão de jornada de trabalho da Acuttis, com foco em integrações, desenvolvimento de recursos para gestão de ponto e RH além de em recursos de IA dentro do produto.
 
 - 📚 Estudando agora: system design, mensageria e MCP<br><br>
-<br>
 
 ## 🚀 Linguagens
 [![Linguagens](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)<br><br>
