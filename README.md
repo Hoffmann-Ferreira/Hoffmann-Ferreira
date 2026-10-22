@@ -19,7 +19,7 @@ Atuo na área desde 2022 trabalhando com APIs REST, integrações com sistemas d
 Cheguei à tecnologia pelo bootcamp Full Stack da Blue EdTech, onde fui campeão com a minha equipe, depois de mais de quatro anos como assessor jurídico.
 
 - 📚 Estudando agora: system design, mensageria e MCP<br><br>
-
+<br>
 
 ## 🚀 Linguagens
 [![Linguagens](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)<br><br>
@@ -35,25 +35,6 @@ Cheguei à tecnologia pelo bootcamp Full Stack da Blue EdTech, onde fui campeão
 
 ## 🛠️ Ferramentas
 [![Ferramentas](https://skillicons.dev/icons?i=docker,git,github,vscode)](https://skillicons.dev)<br><br>
-
-<!--
-Adicione quando for verdade no seu dia a dia ou depois da PoC:
-jest, githubactions, aws
-
-Exemplo: https://skillicons.dev/icons?i=docker,githubactions,jest,aws
--->
-
-
-<!--
-## ⭐ Projeto em destaque
-
-Descomente quando a PoC estiver no ar.
-
-**[Onboarding Hub](https://github.com/Hoffmann-Ferreira/onboarding-hub)**: API que gera o checklist de integração de um colaborador e aciona sistemas satélites por fila, com painel web e servidor MCP.
-
-NestJS · TypeScript · PostgreSQL · SQS · React · Docker · GitHub Actions · MCP
--->
-
 
 ## 📫 Contato
 
